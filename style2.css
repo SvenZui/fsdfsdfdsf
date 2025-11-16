@@ -1,0 +1,520 @@
+.flex {
+    display: flex;
+}
+
+.header-wrap {
+    background-color: #F5F5F5;
+}
+
+.header-wrap {
+    align-items: center;
+    gap: 250px;
+}
+
+.header-list {
+    justify-content: center;
+    gap: 70px;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #60A2B8;
+    text-decoration: none;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 16px;
+    line-height: 160%;
+    font-family: "Inter", sans-serif;
+}
+
+.header-logo {
+    align-items: center;
+    justify-content: center;
+
+    h1 {
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 24px;
+        line-height: 160%;
+
+        text-align: center;
+        color: #60A2B8;
+    }
+
+    img {
+        width: 90px;
+        height: 60px;
+    }
+}
+
+.header-menu {
+    gap: 47px;
+}
+
+
+/*--------sec----------------- */
+
+
+.text {
+    margin-left: 70px;
+}
+
+.text button {
+    color: white;
+    background-color: #195360;
+    width: 258.72px;
+    height: 58.03px;
+    font-size: 18px;
+    font-style: Bold;
+    line-height: 160%;
+    font-weight: 700;
+    border-style: none;
+}
+
+.text h1 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 130%;
+    font-family: "Inter", sans-serif;
+}
+
+.text p {
+    font-weight: 400;
+    font-style: regular;
+    font-size: 18px;
+    line-height: 160%;
+    font-family: "Inter", sans-serif;
+}
+
+.sec-container {
+    width: 1600px;
+    height: 910px;
+    justify-content: left;
+    align-items: center;
+    background-image: linear-gradient(to bottom, #F5F5F5, #60A2B8)
+}
+
+.sec-w {
+    justify-content: right;
+    align-items: center;
+    margin-top: 210px;
+    position: relative;
+
+    .sec-img {
+        width: 889px;
+        height: 626px;
+        z-index: -1;
+    }
+
+    .img2 {
+        position: absolute;
+        bottom: 10px;
+        right: 780px;
+        z-index: 1;
+        width: 169.72px;
+        height: 161.22px;
+
+    }
+}
+
+
+
+
+/* -------sec1-------------------- */
+.sec1-container {
+    display: flex;
+}
+
+.box1 {
+    margin-top: 90px;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+    line-height: 160%;
+    width: 460px;
+    height: 465px;
+    color: #404040;
+}
+
+
+.text1 h1 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    line-height: 130%;
+    font-family: "Inter", sans-serif;
+    color: #7B3838;
+}
+
+.text1 p {
+    font-weight: 400;
+    font-style: regular;
+    font-size: 16px;
+    line-height: 160%;
+    font-family: "Inter", sans-serif;
+    color: #404040;
+}
+
+.text1 {
+    justify-content: center;
+    align-items: center;
+    margin-left: 130px;
+}
+
+.text1 button {
+    color: white;
+    background-color: #195360;
+    width: 228.74px;
+    height: 57px;
+    font-size: 14px;
+    font-style: Bold;
+    line-height: 160%;
+    font-weight: 700;
+    border-style: none;
+}
+
+.sec2-cont2 {
+    margin-top: 200px;
+    padding: 20px;
+}
+
+.box2 {
+    position: relative;
+    margin-top: 90px;
+    padding: 20px;
+
+}
+
+.text-box {
+    justify-content: center;
+    align-content: center;
+    position: absolute;
+    top: 190px;
+
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+    line-height: 160%;
+    width: 460px;
+    height: 465px;
+    color: white;
+    text-align: center;
+}
+
+.sec3-container {
+    background-color: #195360;
+    width: 1600px;
+    height: 900px;
+    margin-top: 170px;
+    padding-top: 80px;
+
+    h1 {
+        justify-content: center;
+        font-family: "Inter", sans-serif;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 54px;
+        line-height: 160%;
+        color: white;
+        text-align: center;
+    }
+}
+
+
+.text {
+    margin-left: 70px;
+}
+
+.text button {
+    color: white;
+    background-color: #195360;
+    width: 258.72px;
+    height: 58.03px;
+    font-size: 18px;
+    font-style: Bold;
+    line-height: 160%;
+    font-weight: 700;
+    border-style: none;
+}
+
+.text h1 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 130%;
+    font-family: "Inter", sans-serif;
+}
+
+.text p {
+    font-weight: 400;
+    font-style: regular;
+    font-size: 18px;
+    line-height: 160%;
+    font-family: "Inter", sans-serif;
+}
+
+.sec-container {
+    width: 1600px;
+    height: 910px;
+    justify-content: left;
+    align-items: center;
+    background-image: linear-gradient(to bottom, #F5F5F5, #60A2B8)
+}
+
+.sec-w {
+    justify-content: right;
+    align-items: center;
+    margin-top: 210px;
+    position: relative;
+
+    .sec-img {
+        width: 889px;
+        height: 626px;
+        z-index: -1;
+    }
+
+    .img2 {
+        position: absolute;
+        bottom: 10px;
+        right: 780px;
+        z-index: 1;
+        width: 169.72px;
+        height: 161.22px;
+
+    }
+}
+
+
+
+
+
+
+
+
+.text4 {
+    padding-left: 20px;
+}
+
+
+.text4 h1 {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    line-height: 130%;
+    font-family: "Inter", sans-serif;
+    color: #7B3838;
+}
+
+.text4 p {
+    font-weight: 400;
+    font-style: regular;
+    font-size: 18px;
+    line-height: 160%;
+    font-family: "Inter", sans-serif;
+    color: #404040;
+}
+
+.cont23 {
+    padding-left: 20px;
+    justify-content: center;
+
+    h1 {
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 24px;
+        line-height: 130%;
+        font-family: "Inter", sans-serif;
+        color: #7B3838;
+    }
+
+    p {
+        font-weight: 400;
+        font-style: regular;
+        font-size: 18px;
+        line-height: 160%;
+        font-family: "Inter", sans-serif;
+        color: #404040;
+    }
+}
+
+
+.sec4-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 40px;
+}
+
+.sec-w1 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center
+}
+
+.sec5-wrap {
+    background-color: #195360;
+    justify-content: center;
+    align-items: center;
+    width: 1600px;
+    height: 500px;
+}
+
+.cont5 {
+    margin-right: 50px;
+    margin-left: 20px;
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    h1 {
+        color: #60A2B8;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 36px;
+        line-height: 160%;
+        font-family: "Inter", sans-serif;
+    }
+
+    p {
+        color: white;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 24px;
+        line-height: 160%;
+        font-family: "Inter", sans-serif;
+    }
+
+    img {
+        width: 234px;
+        height: 203px;
+    }
+}
+
+
+
+.sec6-2part {
+    margin-left: 100px;
+
+    h1 {
+        color: #7B3838;
+        font-weight: 700;
+        font-size: 54px;
+        font-style: Bold;
+        line-height: 160%;
+        font-family: "Inter", sans-serif;
+        text-align: center;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 18px;
+        font-style: normal;
+        line-height: 160%;
+        font-family: "Inter", sans-serif;
+        text-align: left;
+    }
+}
+
+.sec6-containers,
+.sec6-containers1 {
+    gap: 100px;
+}
+
+
+
+.sec6-wrap {
+    margin-top: 200px;
+}
+
+.cont6 {
+    justify-content: center;
+    align-items: center;
+
+    p {
+        color: #7B3838;
+        font-weight: 500;
+        font-size: 24px;
+        font-style: normal;
+        line-height: 160%;
+        font-family: "Inter", sans-serif;
+        text-align: center;
+    }
+
+    img {
+        width: 155px;
+        height: 155px;
+    }
+}
+
+
+
+footer {
+    margin-top: 300px;
+}
+
+.f-text {
+
+    color: #404040;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+    line-height: 160%;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+}
+
+
+.footer-containers {
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-f {
+    h1 {
+        color: #404040;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 24px;
+        line-height: 160%;
+        font-family: "Inter", sans-serif;
+        text-align: center;
+    }
+
+    p {
+        color: #404040;
+        font-weight: 500;
+        font-style: Bold;
+        font-size: 18px;
+        line-height: 160%;
+        font-family: "Inter", sans-serif;
+        text-align: center;
+
+    }
+
+    img {
+        width: 100px;
+        height: 100px;
+        margin-left: 40px;
+    }
+}
+
+.line {
+    height: 2px;
+    background-color: gray;
+}
